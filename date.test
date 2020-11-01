@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# Display calendar
-cal
-
-# Display the date and time in UTC format
-date -u
